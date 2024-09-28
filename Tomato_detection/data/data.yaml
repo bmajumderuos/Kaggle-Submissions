@@ -1,0 +1,6 @@
+names:
+- tomato
+nc: 1
+test: D:\Visiolab\Test_task\ml-engineering-task-bhaskar\data\images\test
+train: D:\Visiolab\Test_task\ml-engineering-task-bhaskar\data\images\train
+val: D:\Visiolab\Test_task\ml-engineering-task-bhaskar\data\images\val

@@ -1,0 +1,14 @@
+python=3.11
+matplotlib=3.8.4
+numpy=1.26.4
+pandas=2.2.2
+scikit-learn=1.5.1
+pytorch=2.4.0
+pytorch-cuda=12.4
+torchvision=0.19.0+cu124
+xmltodict=0.13.0
+jupyter
+notebook
+ultralytics=8.2.81
+Pillow
+pyyaml
